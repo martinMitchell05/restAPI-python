@@ -50,3 +50,4 @@ def delete_user(user_id: int):
 
 
 # Execute API: `uvicorn file:app --reload`
+# Search for http://127.0.0.1:8000/docs and check
